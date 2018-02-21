@@ -1,6 +1,6 @@
-# This is a Test Repo for learning about Git
+# This is a Test Repo for learning about Git & Pair Programming
 
-# Afternoon Project Time Checklist
+## Afternoon Project Time Checklist
 
 - [ ] Drop link to Zoom created with section Zoom account
 - [ ] Add other section TAs as cohosts
