@@ -5,11 +5,11 @@
 2) Person A adds person B as a Collaborator.
 3) Person B accepts invite.
 4) Both clone person A’s repository.
-`git clone {person A's URL}`
+    - `git clone {person A's URL}`
 5) Upon the first saved change, person A commits, pushes and makes a Pull Request.
 6) Work together, push and pull changes as you push commits & commit often!
 
-## Afternoon Project Time Checklist
+## Teaching Assistant's Afternoon Project Time Checklist
 
 - [ ] Drop link to Zoom created with section Zoom account
 - [ ] Add other section TAs as cohosts
