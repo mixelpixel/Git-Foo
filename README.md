@@ -29,7 +29,7 @@
 * Tai the Thai
 * Ryan Hamblin
 * GREMLINS ARE IN THE HOUSE!!!!!!!!
-* Patrick Kennedy
+* Moises Patrick Kennedy Changed This
 * WHAT WILL WE DO TO GET RID OF THEM????
 * IS Moises Dobarganes A GREMLIN
 * THROW SOME WATER ON HIM - Oh NO!!!!!
