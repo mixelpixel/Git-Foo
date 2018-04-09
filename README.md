@@ -7,6 +7,7 @@
 4) Both clone person A’s repository.
     - `git clone {person A's URL}`
 5) Upon the first saved change, person A commits, pushes and makes a Pull Request.
+5.1) Stuff to do after save changes...
 6) Work together, push and pull changes as you push commits & commit often!
 
 ## Teaching Assistant's Afternoon Project Time Checklist
@@ -28,3 +29,4 @@
 * Tai the Thai
 * Ryan Hamblin
 * Patrick Kennedy
+* Moises Dobarganes
