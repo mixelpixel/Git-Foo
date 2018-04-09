@@ -1,14 +1,14 @@
 # This is a Test Repo for learning about Git & Pair Programming
 
 ## For pair programming “collaboration” with GitHub
-1) Person A forks the Lambda School repository.
-2) Person A adds person B as a Collaborator.
-3) Person B accepts invite.
-4) Both clone person A’s repository.
+1. Person A forks the Lambda School repository.
+2. Person A adds person B as a Collaborator.
+3. Person B accepts invite.
+4. Both clone person A’s repository.
     - `git clone {person A's URL}`
-5) Upon the first saved change, person A commits, pushes and makes a Pull Request.
-5.1) Stuff to do after save changes...
-6) Work together, push and pull changes as you push commits & commit often!
+5. Upon the first saved change, person A commits, pushes and makes a Pull Request.
+6. Stuff to do after save changes...
+7. Work together, push and pull changes as you push commits & commit often!
 
 ## Teaching Assistant's Afternoon Project Time Checklist
 
@@ -28,5 +28,8 @@
 ### Add Your name to the list Below
 * Tai the Thai
 * Ryan Hamblin
+* GREMLINS ARE IN THE HOUSE!!!!!!!!
 * Patrick Kennedy
-* Moises Dobarganes
+* WHAT WILL WE DO TO GET RID OF THEM????
+* IS Moises Dobarganes A GREMLIN
+* THROW SOME WATER ON HIM - Oh NO!!!!!
